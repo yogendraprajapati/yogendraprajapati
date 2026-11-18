@@ -152,7 +152,7 @@ I prioritise working software, clear documentation, testing, and honest engineer
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogendra_Prajapati-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yogendraprajapati)
-[![GitHub](https://img.shields.io/badge/GitHub-https://www.linkedin.com/in/yogendraprajapati-181717?style=for-the-badge&logo=github)](https://github.com/yogendraprajapati)
+[![GitHub](https://img.shields.io/badge/GitHub-https://github.com/yogendraprajapati-181717?style=for-the-badge&logo=github)](https://github.com/yogendraprajapati)
 
 **Open to:** meaningful engineering discussions, project collaborations, learning opportunities, and relevant entry-level opportunities.
 
