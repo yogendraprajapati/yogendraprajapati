@@ -121,7 +121,7 @@ I prioritise working software, clear documentation, testing, and honest engineer
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=https://github.com/yogendraprajapati&theme=github-dark-blue&hide_border=true&background=0D1117&ring=E7B95B&fire=E7B95B&currStreakLabel=E7B95B" width="70%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=yogendraprajapati&theme=github-dark-blue&hide_border=true&background=0D1117&ring=E7B95B&fire=E7B95B&currStreakLabel=E7B95B" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -138,9 +138,9 @@ I prioritise working software, clear documentation, testing, and honest engineer
 <br/>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/yogendraprajapati/https://github.com/yogendraprajapati/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/yogendraprajapati/https://github.com/yogendraprajapati/output/github-contribution-grid-snake.svg"/>
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/https://github.com/yogendraprajapati/https://github.com/yogendraprajapati/output/github-contribution-grid-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//https://github.com/yogendraprajapati/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//https://github.com/yogendraprajapati/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com//https://github.com/yogendraprajapati/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </div>
 </details>
