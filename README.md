@@ -116,8 +116,8 @@ I prioritise working software, clear documentation, testing, and honest engineer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=https://www.linkedin.com/in/yogendraprajapati&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E7B95B&icon_color=58A6FF&text_color=CBD5E1&rank_icon=github" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://www.linkedin.com/in/yogendraprajapati&layout=compact&hide_border=true&bg_color=0D1117&title_color=E7B95B&text_color=CBD5E1" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yogendraprajapati&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E7B95B&icon_color=58A6FF&text_color=CBD5E1&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogendraprajapati&layout=compact&hide_border=true&bg_color=0D1117&title_color=E7B95B&text_color=CBD5E1" height="165" alt="Most used languages"/>
 
 <br/>
 
